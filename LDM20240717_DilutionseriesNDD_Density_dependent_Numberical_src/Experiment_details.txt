@@ -1,0 +1,3 @@
+This map is used to run a dilution series from 10 ** -1 to -7.
+The bacteria is has NO density dependent resistance and is a numerical system.
+The formula used for the density dependent behaviour is y = X^3
